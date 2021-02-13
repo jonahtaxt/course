@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.diabetesandco
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-lambda, gradle, junit, kotlin, kotlin-application, logback, readme, shade, yaml]
